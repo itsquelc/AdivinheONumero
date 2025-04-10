@@ -1,0 +1,2 @@
+ backgroundColor: '#6d84c3',
+  backgroundColor: '#600061', 
